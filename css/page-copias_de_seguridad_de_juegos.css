@@ -1,0 +1,26 @@
+/*class*/
+.page_base_cartuchos {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.main_image{
+  width: 300px;
+  height: auto;
+}
+.visit_button>img {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+  display: inline-block;
+  vertical-align: middle;
+  cursor: pointer;
+}
+.descarga_mega{
+  width: auto;
+  height: 200px;
+}
+.descarga_mediafire{
+  width: auto;
+  height: 200px;
+}
